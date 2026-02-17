@@ -5,3 +5,6 @@
 
 # j-help data cache
 .help_cache/
+
+# build files
+*.elc
